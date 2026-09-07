@@ -1,0 +1,662 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA=s256",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "Simple. Reliable. Private.",
+    "size": 113.8,
+    "reviews": 243000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4860000
+      },
+      {
+        "name": "2 star",
+        "count": 7290000
+      },
+      {
+        "name": "3 star",
+        "count": 12150000
+      },
+      {
+        "name": "4 star",
+        "count": 48600000
+      },
+      {
+        "name": "5 star",
+        "count": 170100000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q=s256",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "id": 2,
+    "description": "Create & share photos, stories, & reels with friends you love",
+    "size": 61.0,
+    "reviews": 169000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5070000
+      },
+      {
+        "name": "2 star",
+        "count": 6760000
+      },
+      {
+        "name": "3 star",
+        "count": 11830000
+      },
+      {
+        "name": "4 star",
+        "count": 40560000
+      },
+      {
+        "name": "5 star",
+        "count": 104780000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/IzQgYCcnCFCD08GR-3bdtcT8xzOvrNkC84avGT5CwTX2VIqmTmKKJcP_Cd4JoBOdmCMlTndlOzV6hrthg2fOWA=s256",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "id": 3,
+    "description": "Listen to songs, play podcasts, create playlists and discover music you'll love",
+    "size": 213.5,
+    "reviews": 36200000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 724000
+      },
+      {
+        "name": "2 star",
+        "count": 1086000
+      },
+      {
+        "name": "3 star",
+        "count": 1810000
+      },
+      {
+        "name": "4 star",
+        "count": 7240000
+      },
+      {
+        "name": "5 star",
+        "count": 25340000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/VExMwhu9Fe5kz72YnPWP6mHrNA5WfgZ-PJMnBnQmXFpLncTAOaaHtK4b8w7b2xxGxtqycDatYslVyNSLucl9QA=s256",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 4,
+    "description": "One destination for a world of inspiration.",
+    "size": 37.1,
+    "reviews": 11600000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 232000
+      },
+      {
+        "name": "2 star",
+        "count": 348000
+      },
+      {
+        "name": "3 star",
+        "count": 580000
+      },
+      {
+        "name": "4 star",
+        "count": 2320000
+      },
+      {
+        "name": "5 star",
+        "count": 8120000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/nOJWJoDAzuRSHmlFfpzHXAj8UbTJwk_JGYf0uAPTKPtiiIX_2Y7r5ATO1ZtxHRqaFTqfIDZ40PnBK4hukeJh=s256",
+    "title": "Snapchat: Chat with Friends",
+    "companyName": "Snap Inc",
+    "id": 5,
+    "description": "Chat, text, video call | Share photos, selfies with face filters on social media",
+    "size": 178.4,
+    "reviews": 39700000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1389500
+      },
+      {
+        "name": "2 star",
+        "count": 1786500
+      },
+      {
+        "name": "3 star",
+        "count": 3176000
+      },
+      {
+        "name": "4 star",
+        "count": 10123500
+      },
+      {
+        "name": "5 star",
+        "count": 23224500
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg=s256",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 6,
+    "description": "Videos, Music & Live Streams",
+    "size": 126.5,
+    "reviews": 69800000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2443000
+      },
+      {
+        "name": "2 star",
+        "count": 3141000
+      },
+      {
+        "name": "3 star",
+        "count": 5584000
+      },
+      {
+        "name": "4 star",
+        "count": 17799000
+      },
+      {
+        "name": "5 star",
+        "count": 40833000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=s256",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 7,
+    "description": "A little connection can go a long way",
+    "size": 32.7,
+    "reviews": 185000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3700000
+      },
+      {
+        "name": "2 star",
+        "count": 5550000
+      },
+      {
+        "name": "3 star",
+        "count": 9250000
+      },
+      {
+        "name": "4 star",
+        "count": 37000000
+      },
+      {
+        "name": "5 star",
+        "count": 129500000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/cuRpiGqvAMkcbAOibD-AKCBagAunUkspQUWC_jVZF2Hob_ODdmkefnZeqkofW1idFQHhgZgnLIjsqT-2v7JKBw=s256",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 8,
+    "description": "Useful. Social. Expressive.",
+    "size": 169.8,
+    "reviews": 113000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2260000
+      },
+      {
+        "name": "2 star",
+        "count": 2260000
+      },
+      {
+        "name": "3 star",
+        "count": 4520000
+      },
+      {
+        "name": "4 star",
+        "count": 19210000
+      },
+      {
+        "name": "5 star",
+        "count": 84750000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/T9J8e9oxxPd600j_KPM4KK2GHfNpUpGBdTy8lHPXBXpOUfGusRuZXj0UMgFNrP8we6LVt9V-AibEgcLootE6VK4=s256",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 9,
+    "description": "Your AI assistant for writing, search, image generation, and more",
+    "size": 147.3,
+    "reviews": 56300000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1126000
+      },
+      {
+        "name": "2 star",
+        "count": 1126000
+      },
+      {
+        "name": "3 star",
+        "count": 2252000
+      },
+      {
+        "name": "4 star",
+        "count": 9571000
+      },
+      {
+        "name": "5 star",
+        "count": 42225000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/fXVS45nukV1x9PYVSKHkCQK0QGCOishIvAOxIZS3sgRem8HS7l9l94_Ggj-WZPrTLePRdNYN4pp4SPAQL7oS0PU=s256",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Netflix is the leading subscription service for watching TV episodes and movies.",
+    "size": 36.3,
+    "reviews": 15700000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 471000
+      },
+      {
+        "name": "2 star",
+        "count": 628000
+      },
+      {
+        "name": "3 star",
+        "count": 1099000
+      },
+      {
+        "name": "4 star",
+        "count": 3768000
+      },
+      {
+        "name": "5 star",
+        "count": 9734000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/QNmuZQc9I6Zbe3mWnSr0hycnENqGFCI5p3yE29Hkxtf22T0IWS6zTrpxULLyyjWpB7ONAXDsDQXnXcVWokl3eg=s256",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 11,
+    "description": "Enjoy your favourite videos and channels with the official YouTube app.",
+    "size": 42.7,
+    "reviews": 172000000,
+    "ratingAvg": 4.1,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6880000
+      },
+      {
+        "name": "2 star",
+        "count": 8600000
+      },
+      {
+        "name": "3 star",
+        "count": 15480000
+      },
+      {
+        "name": "4 star",
+        "count": 46440000
+      },
+      {
+        "name": "5 star",
+        "count": 94600000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/PyZ3akMGXPV0tKKirKNwfO--PSQW3FHR6rD_H9mAaukZ8LiHyYFuBLeU8UZ2ok6r5SP79-3prkfybWKh98AZAD0=s256",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 12,
+    "description": "Telegram is a messaging app with a focus on speed and security.",
+    "size": 144.5,
+    "reviews": 17100000,
+    "ratingAvg": 4.0,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 769500
+      },
+      {
+        "name": "2 star",
+        "count": 940500
+      },
+      {
+        "name": "3 star",
+        "count": 1710000
+      },
+      {
+        "name": "4 star",
+        "count": 4788000
+      },
+      {
+        "name": "5 star",
+        "count": 8892000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/gbkzfC3R1fXcGR4Uag1uRSN_123Tpo_KxhVZFLFCatmthFuO1bzPczUomFtxI42YYEQMJeAaZuIFVrTF58gZYg=s256",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Google's fast and secure browser",
+    "size": 267.2,
+    "reviews": 49200000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1476000
+      },
+      {
+        "name": "2 star",
+        "count": 1968000
+      },
+      {
+        "name": "3 star",
+        "count": 3444000
+      },
+      {
+        "name": "4 star",
+        "count": 11808000
+      },
+      {
+        "name": "5 star",
+        "count": 30504000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=s256",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 14,
+    "description": "Connect, create, and collaborate with Gmail, part of Google Workspace.",
+    "size": 52.8,
+    "reviews": 14400000,
+    "ratingAvg": 4.4,
+    "downloads": 10000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 360000
+      },
+      {
+        "name": "2 star",
+        "count": 504000
+      },
+      {
+        "name": "3 star",
+        "count": 864000
+      },
+      {
+        "name": "4 star",
+        "count": 3168000
+      },
+      {
+        "name": "5 star",
+        "count": 9504000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/qvCUKsnNRurVefue3FuX4TakVbbUhz9KNFEqgil0N2VT0n_Wa12Gn1ox1ZjRAxXR52cRvgt6BBlo-sNEfC_47w=s256",
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo",
+    "id": 15,
+    "description": "Lessons to learn Spanish, French, German, English, Online Chess, Math & Music",
+    "size": 83.1,
+    "reviews": 49100000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 736500
+      },
+      {
+        "name": "2 star",
+        "count": 736500
+      },
+      {
+        "name": "3 star",
+        "count": 1718500
+      },
+      {
+        "name": "4 star",
+        "count": 7365000
+      },
+      {
+        "name": "5 star",
+        "count": 38543500
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/oij55bxj3e-4JrhGntpki0lnQyE8yQn8X5FPEzZ0t7cLppeiSINynEk7n9COoh7QSaCOZ_yiPO31NVaW4SDbWg=s256",
+    "title": "LinkedIn: Community & Network",
+    "companyName": "LinkedIn Corporation",
+    "id": 16,
+    "description": "Find Jobs, Insights and News",
+    "size": 206.4,
+    "reviews": 3470000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 121450
+      },
+      {
+        "name": "2 star",
+        "count": 156150
+      },
+      {
+        "name": "3 star",
+        "count": 277600
+      },
+      {
+        "name": "4 star",
+        "count": 884850
+      },
+      {
+        "name": "5 star",
+        "count": 2029950
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/w2DdjDHGSj3DQElQQM0_J3PsNsALS-WD3CBeH0aXOYceR-F3aT02gFonhoFzz-Tc9ec8Dx9cLqh48-tzIFcP=s256",
+    "title": "Discord - Talk, Play, Hang Out",
+    "companyName": "Discord Inc.",
+    "id": 17,
+    "description": "Group Chat That's Fun & Games",
+    "size": 304.1,
+    "reviews": 6900000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 172500
+      },
+      {
+        "name": "2 star",
+        "count": 241500
+      },
+      {
+        "name": "3 star",
+        "count": 414000
+      },
+      {
+        "name": "4 star",
+        "count": 1518000
+      },
+      {
+        "name": "5 star",
+        "count": 4554000
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/UIYZ9hTFNg-zZUg_uzLS9YdyDpvoo1VHNFb6VlzHy5JqNMq9Uq-p2S1VPwzXCipHTFacfGKhJkyAuKL19VVlcWA=s256",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 18,
+    "description": "Browse, search & buy millions of products right from your Android device.",
+    "size": 191.0,
+    "reviews": 4680000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140400
+      },
+      {
+        "name": "2 star",
+        "count": 187200
+      },
+      {
+        "name": "3 star",
+        "count": 327600
+      },
+      {
+        "name": "4 star",
+        "count": 1123200
+      },
+      {
+        "name": "5 star",
+        "count": 2901600
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/9SeHb3IaNFm7sXRQmWZaL5MHqVn4qcBGz12sPgjBisZCFMyZPOCXUFOZIttUu-CiTqQz3alXL7jxxGW1Y4fn=s256",
+    "title": "PayPal - Pay, Send, Save",
+    "companyName": "PayPal, Inc.",
+    "id": 19,
+    "description": "The PayPal app is the secure way to send and receive money, shop and pay in 4.",
+    "size": 136.0,
+    "reviews": 3710000,
+    "ratingAvg": 4.2,
+    "downloads": 100000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 129850
+      },
+      {
+        "name": "2 star",
+        "count": 166950
+      },
+      {
+        "name": "3 star",
+        "count": 296800
+      },
+      {
+        "name": "4 star",
+        "count": 946050
+      },
+      {
+        "name": "5 star",
+        "count": 2170350
+      }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/OXQnDlRtPa5ha6KCnKPqVmxHYBP7tjrAa7PXGNRqcwDC_J03HVeuEKcKrkcIqnfOqsF5uy3uwWxIXR067QHsNQ=s256",
+    "title": "Uber - Request a ride",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 20,
+    "description": "Rideshare, taxi cabs, and more for your airport travels and everyday trips.",
+    "size": 312.8,
+    "reviews": 19700000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 197000
+      },
+      {
+        "name": "2 star",
+        "count": 197000
+      },
+      {
+        "name": "3 star",
+        "count": 591000
+      },
+      {
+        "name": "4 star",
+        "count": 2364000
+      },
+      {
+        "name": "5 star",
+        "count": 16351000
+      }
+    ]
+  }
+]
