@@ -1,11 +1,13 @@
+import { Link } from "react-router";
+
 const Footer = () => {
   return (
     <footer className="bg-slate-950 text-white">
       <div className="max-w-7xl mx-auto px-6 lg:px-10 py-8 flex flex-col sm:flex-row items-center justify-between gap-6">
-        <a href="/" className="flex items-center gap-2">
-          <img src="/assets/logo.png" alt="Hero.io" className="h-7 w-7" />
+        <Link to="/" className="flex items-center gap-2">
+          <img src="/src/assets/logo.png" alt="Hero.io" className="h-7 w-7" />
           <span className="text-lg font-bold">HERO.IO</span>
-        </a>
+        </Link>
 
         <div className="text-center sm:text-right">
           <p className="text-sm font-medium text-slate-300 mb-2">
@@ -39,7 +41,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-sm text-slate-400">
-        Copyright © 2025 - All right reserved
+        Copyright © 2026 - All right reserved
       </div>
     </footer>
   );

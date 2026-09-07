@@ -1,7 +1,12 @@
 import { FaAppStoreIos } from "react-icons/fa6";
 import { IoLogoGooglePlaystore } from "react-icons/io5";
+import { Link, useLoaderData } from "react-router";
+import AppCard from "../../components/AppCard/AppCard";
 
 const Home = () => {
+  const allAppsData = useLoaderData();
+  const trendingApps = allAppsData.slice(0, 8);
+
   return (
     <>
       {/* Banner */}
@@ -19,19 +24,23 @@ const Home = () => {
 
         <div className="mt-8 flex items-center justify-center gap-4">
           {/* TODO: redirect to the Play Store */}
-          <button className="btn bg-white border border-slate-200 rounded-lg gap-2 normal-case font-semibold text-slate-800 hover:bg-slate-100">
-            <span aria-hidden>
-              <IoLogoGooglePlaystore />
-            </span>{" "}
-            Google Play
-          </button>
+          <a href="https://play.google.com/store/apps" target="_blank">
+            <button className="btn bg-white border border-slate-200 rounded-lg gap-2 normal-case font-semibold text-slate-800 hover:bg-slate-100">
+              <span aria-hidden>
+                <IoLogoGooglePlaystore />
+              </span>{" "}
+              Google Play
+            </button>
+          </a>
           {/* TODO: redirect to the App Store */}
-          <button className="btn bg-white border border-slate-200 rounded-lg gap-2 normal-case font-semibold text-slate-800 hover:bg-slate-100">
-            <span aria-hidden>
-              <FaAppStoreIos />
-            </span>{" "}
-            App Store
-          </button>
+          <a href="https://www.apple.com/app-store/" target="_blank">
+            <button className="btn bg-white border border-slate-200 rounded-lg gap-2 normal-case font-semibold text-slate-800 hover:bg-slate-100">
+              <span aria-hidden>
+                <FaAppStoreIos />
+              </span>{" "}
+              App Store
+            </button>
+          </a>
         </div>
 
         <div className="mt-10 flex justify-center">
@@ -89,15 +98,15 @@ const Home = () => {
         </p>
 
         <div className="mt-10 grid grid-cols-2 md:grid-cols-4 gap-6 text-left">
-          {/* {trendingApps.map((app) => (
-          <AppCard key={app.id} app={app} />
-        ))} */}
+          {trendingApps.map((app) => (
+            <AppCard key={app.id} app={app} />
+          ))}
         </div>
 
         {/* TODO: navigate to the All Apps page */}
-        <button className="btn mt-10 bg-violet-600 hover:bg-violet-700 text-white border-none rounded-lg px-8 normal-case font-semibold">
+        <Link to='/apps' className="btn mt-10 bg-violet-600 hover:bg-violet-700 text-white border-none rounded-lg px-8 normal-case font-semibold">
           Show All
-        </button>
+        </Link>
       </section>
     </>
   );
