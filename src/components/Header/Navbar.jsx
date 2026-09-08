@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router";
-
+import logo from "/src/assets/logo.png";
 const Navbar = () => {
   // Styles for desktop & mobile
   const desktopNavClass = ({ isActive }) =>
@@ -62,7 +62,7 @@ const Navbar = () => {
 
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 ml-2 md:ml-0">
-          <img src="/src/assets/logo.png" alt="Hero.io" className="h-8 w-8" />
+          <img src={logo} alt="Hero.io" className="h-8 w-8" />
           <span className="text-xl font-extrabold tracking-tight text-violet-600">
             HERO.IO
           </span>

@@ -1,11 +1,11 @@
 import { Link } from "react-router";
-
+import logo from "/src/assets/logo.png";
 const Footer = () => {
   return (
     <footer className="bg-slate-950 text-white">
       <div className="max-w-7xl mx-auto px-6 lg:px-10 py-8 flex flex-col sm:flex-row items-center justify-between gap-6">
         <Link to="/" className="flex items-center gap-2">
-          <img src="/src/assets/logo.png" alt="Hero.io" className="h-7 w-7" />
+          <img src={logo} alt="Hero.io" className="h-7 w-7" />
           <span className="text-lg font-bold">HERO.IO</span>
         </Link>
 

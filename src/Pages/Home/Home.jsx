@@ -2,6 +2,7 @@ import { FaAppStoreIos } from "react-icons/fa6";
 import { IoLogoGooglePlaystore } from "react-icons/io5";
 import { Link, useLoaderData } from "react-router";
 import AppCard from "../../components/AppCard/AppCard";
+import heroImg from "/src/assets/hero.png";
 
 const Home = () => {
   const allAppsData = useLoaderData();
@@ -45,7 +46,7 @@ const Home = () => {
 
         <div className="mt-10 flex justify-center">
           <img
-            src="/src/assets/hero.png"
+            src={heroImg}
             alt="App preview"
             className="w-full max-w-md drop-shadow-xl"
           />
@@ -104,7 +105,10 @@ const Home = () => {
         </div>
 
         {/* TODO: navigate to the All Apps page */}
-        <Link to='/apps' className="btn mt-10 bg-violet-600 hover:bg-violet-700 text-white border-none rounded-lg px-8 normal-case font-semibold">
+        <Link
+          to="/apps"
+          className="btn mt-10 bg-violet-600 hover:bg-violet-700 text-white border-none rounded-lg px-8 normal-case font-semibold"
+        >
           Show All
         </Link>
       </section>
