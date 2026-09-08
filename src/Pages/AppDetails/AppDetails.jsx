@@ -9,6 +9,7 @@ import {
 
 import { useLoaderData, useParams } from "react-router";
 import { useState } from "react";
+import { toast, ToastContainer } from "react-toastify";
 
 const AppDetails = () => {
   const [installStatus, setInstallStatus] = useState(false);
@@ -18,6 +19,7 @@ const AppDetails = () => {
   const app = data.find((singleData) => singleData.id === appId);
   return (
     <section className="max-w-6xl mx-auto px-6 py-14">
+      <ToastContainer></ToastContainer>
       {/* App info */}
       <div className="flex flex-col sm:flex-row gap-10">
         <div className="h-56 w-56 shrink-0 rounded-2xl bg-slate-100 border border-slate-200 flex items-center justify-center overflow-hidden">
@@ -85,7 +87,10 @@ const AppDetails = () => {
 
           {/* Install button — wire up disabled state + "Installed" text + success toast yourself */}
           <button
-            onClick={() => setInstallStatus(true)}
+            onClick={() => {
+              setInstallStatus(true);
+              toast.success("Installed Successfully!")
+            }}
             disabled={installStatus && "enabled"}
             className="btn mt-8 bg-emerald-500 hover:bg-emerald-600 text-white border-none rounded-lg px-6 normal-case font-semibold"
           >
