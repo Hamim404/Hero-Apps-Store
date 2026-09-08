@@ -8,8 +8,10 @@ import {
 } from "recharts";
 
 import { useLoaderData, useParams } from "react-router";
+import { useState } from "react";
 
 const AppDetails = () => {
+  const [installStatus, setInstallStatus] = useState(false);
   const data = useLoaderData();
   const param = useParams();
   const appId = parseInt(param.id);
@@ -82,41 +84,45 @@ const AppDetails = () => {
           </div>
 
           {/* Install button — wire up disabled state + "Installed" text + success toast yourself */}
-          <button className="btn mt-8 bg-emerald-500 hover:bg-emerald-600 text-white border-none rounded-lg px-6 normal-case font-semibold">
-            Install Now ({app.size} MB)
+          <button
+            onClick={() => setInstallStatus(true)}
+            disabled={installStatus && "enabled"}
+            className="btn mt-8 bg-emerald-500 hover:bg-emerald-600 text-white border-none rounded-lg px-6 normal-case font-semibold"
+          >
+            {installStatus ? "Installed" : `Install Now (${app.size} MB)`}
           </button>
         </div>
       </div>
 
       {/* Ratings chart */}
       {/* Ratings chart */}
-<div className="mt-14 border-t border-slate-200 pt-10">
-  <h2 className="text-xl font-extrabold text-slate-900 mb-6">Ratings</h2>
-  <div className="h-72 w-full">
-    <ResponsiveContainer width="100%" height="100%">
-      <BarChart
-        data={[...app.ratings].reverse()} // Reverse so "5 star" shows at the top
-        layout="vertical"
-        margin={{ top: 0, right: 30, left: 20, bottom: 0 }}
-        barSize={22}
-      >
-        <CartesianGrid horizontal={false} stroke="#e2e8f0" />
-        <XAxis
-          type="number"
-          domain={[0, "auto"]} // Automatically calculates axis limit based on dynamic count values
-          tick={{ fill: "#64748b", fontSize: 12 }}
-        />
-        <YAxis
-          type="category"
-          dataKey="name" // Fixed key from "star" to "name"
-          width={60}
-          tick={{ fill: "#334155", fontSize: 13 }}
-        />
-        <Bar dataKey="count" fill="#f97316" radius={[0, 6, 6, 0]} />
-      </BarChart>
-    </ResponsiveContainer>
-  </div>
-</div>
+      <div className="mt-14 border-t border-slate-200 pt-10">
+        <h2 className="text-xl font-extrabold text-slate-900 mb-6">Ratings</h2>
+        <div className="h-72 w-full">
+          <ResponsiveContainer width="100%" height="100%">
+            <BarChart
+              data={[...app.ratings].reverse()} // Reverse so "5 star" shows at the top
+              layout="vertical"
+              margin={{ top: 0, right: 30, left: 20, bottom: 0 }}
+              barSize={22}
+            >
+              <CartesianGrid horizontal={false} stroke="#e2e8f0" />
+              <XAxis
+                type="number"
+                domain={[0, "auto"]} // Automatically calculates axis limit based on dynamic count values
+                tick={{ fill: "#64748b", fontSize: 12 }}
+              />
+              <YAxis
+                type="category"
+                dataKey="name" // Fixed key from "star" to "name"
+                width={60}
+                tick={{ fill: "#334155", fontSize: 13 }}
+              />
+              <Bar dataKey="count" fill="#f97316" radius={[0, 6, 6, 0]} />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+      </div>
 
       {/* Description */}
       <div className="mt-14 border-t border-slate-200 pt-10">

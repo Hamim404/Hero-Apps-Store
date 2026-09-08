@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA=s256",
+    "image": "https://cdn-icons-png.flaticon.com/512/15713/15713434.png",
     "title": "WhatsApp Messenger",
     "companyName": "WhatsApp LLC",
     "id": 1,
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q=s256",
+    "image": "https://cdn-icons-png.flaticon.com/512/4138/4138124.png",
     "title": "Instagram",
     "companyName": "Instagram",
     "id": 2,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/IzQgYCcnCFCD08GR-3bdtcT8xzOvrNkC84avGT5CwTX2VIqmTmKKJcP_Cd4JoBOdmCMlTndlOzV6hrthg2fOWA=s256",
+    "image": "https://cdn.simpleicons.org/spotify",
     "title": "Spotify: Music and Podcasts",
     "companyName": "Spotify AB",
     "id": 3,
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/VExMwhu9Fe5kz72YnPWP6mHrNA5WfgZ-PJMnBnQmXFpLncTAOaaHtK4b8w7b2xxGxtqycDatYslVyNSLucl9QA=s256",
+    "image": "https://cdn.simpleicons.org/pinterest",
     "title": "Pinterest",
     "companyName": "Pinterest",
     "id": 4,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/nOJWJoDAzuRSHmlFfpzHXAj8UbTJwk_JGYf0uAPTKPtiiIX_2Y7r5ATO1ZtxHRqaFTqfIDZ40PnBK4hukeJh=s256",
+    "image": "https://cdn-icons-png.flaticon.com/512/13670/13670393.png",
     "title": "Snapchat: Chat with Friends",
     "companyName": "Snap Inc",
     "id": 5,
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg=s256",
+    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
     "title": "TikTok",
     "companyName": "TikTok Pte. Ltd.",
     "id": 6,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=s256",
+    "image": "https://cdn.simpleicons.org/facebook",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 7,
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/cuRpiGqvAMkcbAOibD-AKCBagAunUkspQUWC_jVZF2Hob_ODdmkefnZeqkofW1idFQHhgZgnLIjsqT-2v7JKBw=s256",
+    "image": "https://cdn.simpleicons.org/messenger",
     "title": "Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 8,
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/T9J8e9oxxPd600j_KPM4KK2GHfNpUpGBdTy8lHPXBXpOUfGusRuZXj0UMgFNrP8we6LVt9V-AibEgcLootE6VK4=s256",
+    "image": "https://cdn-icons-png.flaticon.com/512/12222/12222588.png",
     "title": "ChatGPT",
     "companyName": "OpenAI",
     "id": 9,
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/fXVS45nukV1x9PYVSKHkCQK0QGCOishIvAOxIZS3sgRem8HS7l9l94_Ggj-WZPrTLePRdNYN4pp4SPAQL7oS0PU=s256",
+    "image": "https://cdn.simpleicons.org/netflix",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 10,
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/QNmuZQc9I6Zbe3mWnSr0hycnENqGFCI5p3yE29Hkxtf22T0IWS6zTrpxULLyyjWpB7ONAXDsDQXnXcVWokl3eg=s256",
+    "image": "https://cdn.simpleicons.org/youtube",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 11,
@@ -363,7 +363,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/PyZ3akMGXPV0tKKirKNwfO--PSQW3FHR6rD_H9mAaukZ8LiHyYFuBLeU8UZ2ok6r5SP79-3prkfybWKh98AZAD0=s256",
+    "image": "https://cdn.simpleicons.org/telegram",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 12,
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/gbkzfC3R1fXcGR4Uag1uRSN_123Tpo_KxhVZFLFCatmthFuO1bzPczUomFtxI42YYEQMJeAaZuIFVrTF58gZYg=s256",
+    "image": "https://cdn.simpleicons.org/googlechrome",
     "title": "Google Chrome",
     "companyName": "Google LLC",
     "id": 13,
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc=s256",
+    "image": "https://cdn.simpleicons.org/gmail",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 14,
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/qvCUKsnNRurVefue3FuX4TakVbbUhz9KNFEqgil0N2VT0n_Wa12Gn1ox1ZjRAxXR52cRvgt6BBlo-sNEfC_47w=s256",
+    "image": "https://cdn.simpleicons.org/duolingo",
     "title": "Duolingo: Language Lessons",
     "companyName": "Duolingo",
     "id": 15,
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/oij55bxj3e-4JrhGntpki0lnQyE8yQn8X5FPEzZ0t7cLppeiSINynEk7n9COoh7QSaCOZ_yiPO31NVaW4SDbWg=s256",
+    "image": "https://cdn-icons-png.flaticon.com/512/4494/4494497.png",
     "title": "LinkedIn: Community & Network",
     "companyName": "LinkedIn Corporation",
     "id": 16,
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/w2DdjDHGSj3DQElQQM0_J3PsNsALS-WD3CBeH0aXOYceR-F3aT02gFonhoFzz-Tc9ec8Dx9cLqh48-tzIFcP=s256",
+    "image": "https://cdn.simpleicons.org/discord",
     "title": "Discord - Talk, Play, Hang Out",
     "companyName": "Discord Inc.",
     "id": 17,
@@ -561,7 +561,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/UIYZ9hTFNg-zZUg_uzLS9YdyDpvoo1VHNFb6VlzHy5JqNMq9Uq-p2S1VPwzXCipHTFacfGKhJkyAuKL19VVlcWA=s256",
+    "image": "https://m.media-amazon.com/images/I/51HCHFclmmL.jpg",
     "title": "Amazon Shopping",
     "companyName": "Amazon Mobile LLC",
     "id": 18,
@@ -594,7 +594,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/9SeHb3IaNFm7sXRQmWZaL5MHqVn4qcBGz12sPgjBisZCFMyZPOCXUFOZIttUu-CiTqQz3alXL7jxxGW1Y4fn=s256",
+    "image": "https://cdn.simpleicons.org/paypal",
     "title": "PayPal - Pay, Send, Save",
     "companyName": "PayPal, Inc.",
     "id": 19,
@@ -627,7 +627,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/OXQnDlRtPa5ha6KCnKPqVmxHYBP7tjrAa7PXGNRqcwDC_J03HVeuEKcKrkcIqnfOqsF5uy3uwWxIXR067QHsNQ=s256",
+    "image": "https://cdn.simpleicons.org/uber",
     "title": "Uber - Request a ride",
     "companyName": "Uber Technologies, Inc.",
     "id": 20,
