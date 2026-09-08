@@ -1,8 +1,10 @@
+import appErrorImg from "/src/assets/App-Error.png";
+
 const AppNotFound = () => {
   return (
     <section className="flex-1 flex flex-col items-center justify-center text-center px-6 py-20">
       <img
-        src="/src/assets/App-Error.png"
+        src={appErrorImg}
         alt="App not found"
         className="w-64 sm:w-72 mb-8"
       />

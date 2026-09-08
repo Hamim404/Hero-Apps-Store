@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router';
-
+import notFoundImg from '/src/assets/error-404.png'
 const NotFound = () => {
   const navigate = useNavigate();
 
@@ -15,7 +15,7 @@ const NotFound = () => {
   return (
     <section className="flex-1 flex flex-col items-center justify-center text-center px-6 py-20">
       <img
-        src="/src/assets/error-404.png"
+        src={notFoundImg}
         alt="Page not found"
         className="w-72 sm:w-80 mb-8"
       />
