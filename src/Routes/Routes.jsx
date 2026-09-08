@@ -3,6 +3,7 @@ import Root from "../Pages/Root/Root";
 import Home from "../Pages/Home/Home";
 import AppDetails from "../Pages/AppDetails/AppDetails";
 import AllApps from "../Pages/AllApps/AllApps";
+import NotFound from "../Pages/NotFound/NotFound";
 
 export const router = createBrowserRouter([
   {
@@ -28,6 +29,10 @@ export const router = createBrowserRouter([
         path: "AppDetails/:id",
         loader: () => fetch("/appsData.json"),
         Component: AppDetails,
+      },
+      {
+        path: "*",
+        Component: NotFound,
       },
     ],
   },

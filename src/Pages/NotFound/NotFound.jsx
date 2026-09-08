@@ -1,4 +1,17 @@
+import { useNavigate } from 'react-router';
+
 const NotFound = () => {
+  const navigate = useNavigate();
+
+  const handleGoBack = () => {
+    // If there is no browser history for your site, fallback to home "/"
+    if (window.history.length <= 1) {
+      navigate('/');
+    } else {
+      navigate(-1);
+    }
+  };
+
   return (
     <section className="flex-1 flex flex-col items-center justify-center text-center px-6 py-20">
       <img
@@ -13,8 +26,10 @@ const NotFound = () => {
         The page you are looking for is not available.
       </p>
 
-      {/* TODO: navigate back to the previous page / home */}
-      <button className="btn mt-8 bg-violet-600 hover:bg-violet-700 text-white border-none rounded-lg px-8 normal-case font-semibold">
+      <button
+        onClick={handleGoBack}
+        className="btn mt-8 bg-violet-600 hover:bg-violet-700 text-white border-none rounded-lg px-8 normal-case font-semibold"
+      >
         Go Back!
       </button>
     </section>
